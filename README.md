@@ -1,7 +1,7 @@
-# Python-Object-Detetion-with-10-lines-of-Code
+# Python-Object-Detection-with-10-lines-of-Code
 
 * A python script using **ImageAI** library to detect objects in a given image. (only implementation)
-* Saves the image locally, if it crosses a minimum probability threshold of 0.3
+* Saves the image locally, if it crosses a **minimum probability** threshold of 0.3
 
 # Demos
 
