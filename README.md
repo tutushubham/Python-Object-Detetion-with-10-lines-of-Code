@@ -5,13 +5,13 @@
 
 # Demos
 
-### Example 1
+### Example 1:
 Original image             |  Modified image
 :-------------------------:|:-------------------------:
 ![Test Image 1](test.jpeg)  |  ![Test Image 4](imagenew1.jpg)
 
 
-### Example 2
+### Example 2:
 Original image             |  Modified image
 :-------------------------:|:-------------------------:
 ![Test Image 2](test2.jpg)  |  ![Test Image 3](imagenew.jpg)
